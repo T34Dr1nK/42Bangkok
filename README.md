@@ -1,2 +1,0 @@
-# 42Bangkok
-SentBangkokProj
